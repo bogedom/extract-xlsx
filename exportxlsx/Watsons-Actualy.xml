@@ -1,0 +1,1219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<companies>
+	<company>
+		<company-id>1</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru"> город Санкт-Петербург ул.Краснопутиловская , д.121</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>37.615401</lon>
+			<lat>55.742793</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>2</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург пр-т Испытателей, д. 35</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.262609</lon>
+			<lat>60.008450</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>3</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург пр-т Коломяжский , д.26</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.296053</lon>
+			<lat>60.005417</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>4</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург Торфяная дорога, д.7</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.259727</lon>
+			<lat>59.989382</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>5</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург пр-т Комендантский, д.21</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.255445</lon>
+			<lat>60.014025</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>6</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург ул. Будапештская, д.49</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.381631</lon>
+			<lat>59.853032</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>7</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург ул. Пражская, д.26</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.391960</lon>
+			<lat>59.872613</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>8</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург ул. Большая Московская, д.6</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.347747</lon>
+			<lat>59.926780</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>9</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург ул. Восстания, д.22</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.359976</lon>
+			<lat>59.938081</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>10</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург ул. Кирочная, д.23</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.361673</lon>
+			<lat>59.943667</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>11</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург Лиговский проспект, д.44</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.358476</lon>
+			<lat>59.926035</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>12</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург пр.Московский, д.170</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.320863</lon>
+			<lat>59.878364</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>13</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург ул. Ломоносова, д.16</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.338795</lon>
+			<lat>59.927608</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>14</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург Невский проспект, д.128</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.366409</lon>
+			<lat>59.930603</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>15</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург улица Некрасова, д.60</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.368821</lon>
+			<lat>59.938701</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>16</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург ул. Разъезжая, д.36</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.350985</lon>
+			<lat>59.922589</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>17</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург ул. Социалистическая, д.1/32</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.338988</lon>
+			<lat>59.924313</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>18</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">Ленинградская область поселок Гатчина Проспект 25 Октября, д.33</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.123897</lon>
+			<lat>59.570569</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>19</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">Ленинградская область город Выборгул. Батарейная, д.1</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>28.763631</lon>
+			<lat>60.707193</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>20</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">Ленинградская область город Выборг ул. Ушакова, д.6</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>28.749547</lon>
+			<lat>60.710966</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>21</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">Ленинградская область Красное Село Проспект Ленина, д.59</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.088797</lon>
+			<lat>59.737998</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>22</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург ул.Ивановская, д. 6</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.446291</lon>
+			<lat>59.875686</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>23</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург Средний проспект ВО д.8</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.287257</lon>
+			<lat>59.945456</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>24</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург ул. Гороховая, д.79</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.331109</lon>
+			<lat>59.922055</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>25</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург ул. Декабристов, д.56</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.285211</lon>
+			<lat>59.923891</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>26</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург Московский проспект, д.49</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.317884</lon>
+			<lat>59.911516</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>27</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург ул. Садовая, д.103</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.289091</lon>
+			<lat>59.918973</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>28</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург ул. Садовая, д.60</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.303683</lon>
+			<lat>59.921544</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>29</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург ул. 1-ая Красноармейская, д.14</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.312908</lon>
+			<lat>59.915887</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>30</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург Малый пр. ВО 72</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.242795</lon>
+			<lat>59.938198</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>31</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург ул. Большой проспект ВО, д.47</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.274321</lon>
+			<lat>59.937238</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>32</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург Малый пр. 2</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.280102</lon>
+			<lat>59.948479</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>33</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург ул.Караваевская, д. 24</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.506973</lon>
+			<lat>59.833171</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>34</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург Брантовская дорога, д. 3</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.419292</lon>
+			<lat>59.940170</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>35</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург Б.Сампсониевский проспект д.76</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.335107</lon>
+			<lat>59.983514</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:40</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>36</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург ул. Есенина, д.5б</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.332403</lon>
+			<lat>60.037099</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>37</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург Просвещения проспект, д.69</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.395472</lon>
+			<lat>60.039851</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>38</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург Тихорецкий проспект, д.12</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.367725</lon>
+			<lat>60.014358</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>39</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург проспект Художников, д.14</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.344897</lon>
+			<lat>60.038825</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>40</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург проспект Художников, д.26</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.352555</lon>
+			<lat>60.048226</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>41</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург ул. Федора Абрамова, д. 4</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.333618</lon>
+			<lat>60.069905</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>42</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">Кондратьевский проспект, д.52</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.389979</lon>
+			<lat>59.974795</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>43</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург площадь Ленина, д.8</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.354980</lon>
+			<lat>59.957114</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>44</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург пр.Обуховской обороны , д.227/1</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.468587</lon>
+			<lat>59.864803</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>45</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург Лесной проспект, д.3</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.352673</lon>
+			<lat>59.962170</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>46</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург Металлистов проспект, д.100</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.405037</lon>
+			<lat>59.969537</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>47</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург Науки проспект, д.21</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.400489</lon>
+			<lat>60.011165</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>48</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург Науки проспект, д.38</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.420819</lon>
+			<lat>60.007767</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>49</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург Лермонтовский пр., д.38</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.297694</lon>
+			<lat>59.915490</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>50</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург Энергетиков проспект, д 70</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.435313</lon>
+			<lat>59.972017</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>51</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург Старо-Петергофский проспект, д.35Б</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.277117</lon>
+			<lat>59.903626</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>52</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург Стачек проспект, д.47</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.260787</lon>
+			<lat>59.880895</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>53</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург Стачек проспект, д. 75</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.259362</lon>
+			<lat>59.867189</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>54</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург ул. Тверская, д.34</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.610910</lon>
+			<lat>59.740893</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>55</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург пр. Пятилеток , д.6</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.461053</lon>
+			<lat>59.921561</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>56</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург Заневский проспект, д.9/8</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.408029</lon>
+			<lat>59.927930</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>57</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург Наставников проспект, д.35</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.488374</lon>
+			<lat>59.950032</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>58</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург Шоссе Революции, д.20</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.421236</lon>
+			<lat>59.959785</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>59</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург Заневский проспект, д.16</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.413349</lon>
+			<lat>59.929547</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>60</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург ул.Cытнинская ул.10 </address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.308007</lon>
+			<lat>59.957785</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>61</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург Большой проспект Петроградской стороны, д.7</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.293419</lon>
+			<lat>59.954008</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>62</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург Большой пр.ПС, д.102</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.313213</lon>
+			<lat>59.967009</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>63</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург Перекупной переулок д. 2</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.375891</lon>
+			<lat>59.927503</lat>
+		</coordinates>
+		<phone>
+			<number>8 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+	<company>
+		<company-id>64</company-id>
+		<name lang="ru">Watsons</name>
+		<name-other lang="ru">Watsons</name-other>
+		<address lang="ru">город Санкт-Петербург Среднеохтинский пр. 49</address>
+		<country lang="ru">Россия</country>
+		<coordinates>
+			<lon>30.415980</lon>
+			<lat>59.958088</lat>
+		</coordinates>
+		<phone>
+			<number>9 (812) 677-34-05</number>
+		</phone>
+		<email>ayupova@watsons.ru</email>
+		<url>https://watsons.com.ru/</url>
+		<add-url>https://watsons.com.ru/</add-url>
+			<working-time lang="ru">09:00-22:00</working-time>
+		<rubric-id>184105798</rubric-id>
+	</company>
+</companies>
