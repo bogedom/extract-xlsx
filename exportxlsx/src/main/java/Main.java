@@ -53,6 +53,14 @@ public class Main {
                 out.println("\t\t<add-url>https://watsons.com.ru/</add-url>");
                 out.println(formatElement("\t\t\t", "working-time", "lang=\"ru\"", formatCell(row.getCell(13))));
                 out.println("\t\t<rubric-id>184105798</rubric-id>");
+                out.println("\t\t<photos>");
+                String Str = new String(row.getCell(17).getStringCellValue());
+
+                for (String retval : Str.split(",")) {
+                    System.out.println(retval);
+                    out.println("\t\t\t<photo>" + retval.trim() + "</photo>");
+                }
+                out.println("\t\t</photos>");
                 out.println("\t</company>");
             }
             out.write("</companies>");
