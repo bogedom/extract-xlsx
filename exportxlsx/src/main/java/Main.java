@@ -58,7 +58,7 @@ public class Main {
 
                 for (String retval : Str.split(",")) {
                     System.out.println(retval);
-                    out.println("\t\t\t<photo>" + retval.trim() + "</photo>");
+                    out.println("\t\t\t<photo url=\"" + retval.trim() + "\"/>");
                 }
                 out.println("\t\t</photos>");
                 out.println("\t</company>");
